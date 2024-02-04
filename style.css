@@ -2,19 +2,19 @@
 
 
     body.overzs {
-        background-image:url(images/achtergrond1.jpg);
+        background-image:url(./images/achtergrond1.jpg);
         background-size:cover;
     }
     body.oo{
-        background-image:url(images/achtergrond1.jpg);
+        background-image:url(./images/achtergrond1.jpg);
         background-size:cover;
     }
     body.demo{
-        background-image:url(images/achtergrond1.jpg);
+        background-image:url(./images/achtergrond1.jpg);
         background-size:cover;
     }
     body.intro{
-        background-image:url(images/achtergrond1.jpg);
+        background-image:url(./images/achtergrond1.jpg);
         background-size:cover;
 
     }
